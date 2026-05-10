@@ -1,4 +1,3 @@
-```ics
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ChatGPT//SoSe2026 Termine//DE
@@ -337,4 +336,3 @@ SUMMARY:Zwischenpräsentation Jahrgangsprojekt Mathe-Gebäude
 END:VEVENT
 
 END:VCALENDAR
-```
