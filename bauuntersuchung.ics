@@ -1,8 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ChatGPT//SoSe2026 Termine//DE
+PRODID:-//ChatGPT//SoSe2026//DE
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
 
 BEGIN:VEVENT
 DTSTART:20260413T100000
@@ -56,28 +55,28 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T090000
 DTEND:20260507T170000
-SUMMARY:Betreuung / Selbststudium digitale Bauaufnahme
+SUMMARY:Betreuung/Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260508T090000
 DTEND:20260508T170000
-SUMMARY:Betreuung / Selbststudium digitale Bauaufnahme
+SUMMARY:Betreuung/Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260515T090000
 DTEND:20260515T170000
-SUMMARY:Selbststudium digitale Bauaufnahme
+SUMMARY:Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260521T090000
 DTEND:20260521T170000
-SUMMARY:Betreuung / Selbststudium digitale Bauaufnahme
+SUMMARY:Betreuung/Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
@@ -97,57 +96,58 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T090000
 DTEND:20260528T170000
-SUMMARY:Betreuung / Selbststudium digitale Bauaufnahme
+SUMMARY:Betreuung/Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260529T090000
 DTEND:20260529T170000
-SUMMARY:Selbststudium digitale Bauaufnahme
+SUMMARY:Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260604T090000
 DTEND:20260604T170000
-SUMMARY:Betreuung / Selbststudium digitale Bauaufnahme
+SUMMARY:Betreuung/Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260605T090000
 DTEND:20260605T170000
-SUMMARY:Selbststudium digitale Bauaufnahme
+SUMMARY:Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260611T090000
 DTEND:20260611T170000
-SUMMARY:Betreuung / Selbststudium digitale Bauaufnahme
+SUMMARY:Betreuung/Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260612T090000
 DTEND:20260612T170000
-SUMMARY:Betreuung: Raumbuch / Fenster + Türen
+SUMMARY:Betreuung: Raumbuch/Fenster + Türen
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260618T090000
 DTEND:20260618T170000
-SUMMARY:Betreuung / Selbststudium digitale Bauaufnahme
+SUMMARY:Betreuung/Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260619T090000
 DTEND:20260619T170000
-SUMMARY:Selbststudium digitale Bauaufnahme
-LOCATION:Mathegeb
+SUMMARY:Selbststudium digit. Bauaufnahme
+LOCATION:Mathegebäude
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260622T100000
@@ -159,14 +159,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T090000
 DTEND:20260625T170000
-SUMMARY:Betreuung: Raumbuch / Fenster + Türen
+SUMMARY:Betreuung: Raumbuch/Fenster + Türen
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260626T090000
 DTEND:20260626T170000
-SUMMARY:Betreuung / Selbststudium digitale Bauaufnahme
+SUMMARY:Betreuung/Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
@@ -180,28 +180,28 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260702T090000
 DTEND:20260702T170000
-SUMMARY:Betreuung: Raumbuch / Fenster + Türen
+SUMMARY:Betreuung: Raumbuch/Fenster + Türen
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260703T090000
 DTEND:20260703T170000
-SUMMARY:Betreuung / Selbststudium digitale Bauaufnahme
+SUMMARY:Betreuung/Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260709T090000
 DTEND:20260709T170000
-SUMMARY:Betreuung: Raumbuch / Fenster + Türen
+SUMMARY:Betreuung: Raumbuch/Fenster + Türen
 LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260710T090000
 DTEND:20260710T170000
-SUMMARY:Betreuung / Selbststudium digitale Bauaufnahme
+SUMMARY:Betreuung/Selbststudium digit. Bauaufnahme
 LOCATION:Mathegebäude
 END:VEVENT
 
@@ -220,18 +220,18 @@ LOCATION:Mathegebäude
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260720
 SUMMARY:Abgabe Fragestellung und Bauuntersuchung
-DESCRIPTION:20.07 – keine Uhrzeit angegeben
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Abgabe Raumbuch, Fassadenbuch, Fenster- und Türenkataster
-DESCRIPTION:10.08 – keine Uhrzeit angegeben
+DTSTART;VALUE=DATE:20260810
+SUMMARY:Abgabe Raumbuch, Fassadenbuch, F.+T Kataster
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
 SUMMARY:Abgabe digitale Bauaufnahme
-DESCRIPTION:30.09 – keine Uhrzeit angegeben
 END:VEVENT
 
 BEGIN:VEVENT
