@@ -279,14 +279,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T101500
 DTEND:20260601T114500
-SUMMARY:Präsentationen: Baubeschreibung innen, Baukonstruktion Mathe-Gebäude
+SUMMARY:LV E. von Gaisberg
 LOCATION:A052
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20260608T101500
 DTEND:20260608T130000
-SUMMARY:LV E. von Gaisberg
+SUMMARY:Präsentationen: Baubeschreibung innen, Baukonstruktion Mathe-Gebäude
 LOCATION:A052
 END:VEVENT
 
