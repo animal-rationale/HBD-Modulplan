@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Restaurierung WS26//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:resto-01@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART:20261026T160000
+DTEND:20261026T183000
+SUMMARY:Einführung in die Thematik
+DESCRIPTION:Lehrplan Restaurierung von Baudenkmalen\nDozenten: B.S. + Y.R.
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-02@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART:20261102T160000
+DTEND:20261102T183000
+SUMMARY:Eigenschaften und Verwendung wichtiger Baustoffe
+DESCRIPTION:Einführung/Überblick zu den Eigenschaften und der Verwendung der wichtigsten Baustoffe der Menschheit\nDozent: B.S.
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-03@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART:20261109T160000
+DTEND:20261109T183000
+SUMMARY:Historische Gestaltungstechniken von Architekturoberflächen
+DESCRIPTION:Überblick zu den historischen Gestaltungstechniken von Architekturoberflächen\nDozent: Y.R. (oder B.S.)
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-04@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART:20261116T160000
+DTEND:20261116T183000
+SUMMARY:Typische Schäden am Baudenkmal: Schadensphänomene
+DESCRIPTION:Typische Schäden am Baudenkmal: Schadensphänomene\nDozentin/Dozent: Y.R.
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-05@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART:20261123T160000
+DTEND:20261123T183000
+SUMMARY:Typische Schäden am Baudenkmal: Ursachen/Analytik
+DESCRIPTION:Typische Schäden am Baudenkmal: Ursachen/Analytik\nDozent: B.S.
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-06@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART:20261130T160000
+DTEND:20261130T183000
+SUMMARY:Leitfaden Baudenkmalpflege Teil 1
+DESCRIPTION:Leitfaden Baudenkmalpflege – Teil 1: Methodik in der Konservierung und Restaurierung\nDozentin/Dozent: Y.R.
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-07@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART:20261207T160000
+DTEND:20261207T183000
+SUMMARY:Leitfaden Baudenkmalpflege Teil 2
+DESCRIPTION:Leitfaden Baudenkmalpflege – Teil 2\nDozentin/Dozent: Y.R.
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-08@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART:20261214T160000
+DTEND:20261214T183000
+SUMMARY:Konservierung und Restaurierung in der Praxis Teil 1
+DESCRIPTION:Konservierung + Restaurierung in der Praxis – Teil 1: z.B. Vorstellung der wichtigsten Untersuchungsmethoden\nDozent: B.S.
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-09@stundenplan
+DTSTAMP:20270111T080000Z
+DTSTART:20270111T160000
+DTEND:20270111T183000
+SUMMARY:Konservierung und Restaurierung in der Praxis Teil 2
+DESCRIPTION:Konservierung + Restaurierung in der Praxis – Teil 2: z.B. Konservierung und Restaurierung von Architekturoberflächen (Y.R.)\, ev. in Singapur (B.S.)
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-10@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART:20270118T160000
+DTEND:20270118T183000
+SUMMARY:Konservierung und Restaurierung in der Praxis Teil 3
+DESCRIPTION:Konservierung + Restaurierung in der Praxis – Teil 3: Überblick der wichtigsten Verfahren und Techniken zur Instandsetzung von Baudenkmalen\nDozent: B.S.\nUntertitel noch zu spezifizieren
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-11@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART:20270125T160000
+DTEND:20270125T183000
+SUMMARY:Präsentation von Restaurierungsprojekten
+DESCRIPTION:Präsentation von Restaurierungsprojekten\nDozent: B.S.
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-12@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART:20270201T160000
+DTEND:20270201T183000
+SUMMARY:Präsentation von Restaurierungsprojekten und Fragen
+DESCRIPTION:Präsentation von Restaurierungsprojekten / Fragen und Antworten\nDozenten: B.S. + Y.R.
+END:VEVENT
+BEGIN:VEVENT
+UID:resto-13@stundenplan
+DTSTAMP:20261019T080000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Prüfung Restaurierung von Baudenkmalen
+DESCRIPTION:Prüfung (B.S.)\nUhrzeit noch offen\, laut Plan ein Freitag
+END:VEVENT
+END:VCALENDAR
