@@ -7,7 +7,7 @@ UID:statik-01@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261012T140000
 DTEND:20261012T160000
-SUMMARY:Statik: Einführung und Beteiligte bei Bauvorhaben
+SUMMARY:Einführung und Beteiligte bei Bauvorhaben
 DESCRIPTION:Einführung in die Lehrveranstaltung\, Beteiligte und Zuständigkeiten bei Bauvorhaben\, Tragwerksplanung und Statik\, Beispiele zu Neu-/Altbau\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -15,7 +15,7 @@ UID:statik-02@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261012T160000
 DTEND:20261012T180000
-SUMMARY:Statik: Allgemeine Grundlagen
+SUMMARY:Allgemeine Grundlagen
 DESCRIPTION:Allgemeine Grundlagen der Statik und Begriffserklärungen zu Tragwerken\, Einwirkungen\, Kräftefluss\, Bemessung\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -23,7 +23,7 @@ UID:statik-03@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261019T140000
 DTEND:20261019T160000
-SUMMARY:Statik: Koordinatensystem, Kraft, Moment
+SUMMARY:Koordinatensystem, Kraft, Moment
 DESCRIPTION:Koordinatensystem\, Kraft\, Moment\, Kräftepaar\, Gleichgewicht\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -31,7 +31,7 @@ UID:statik-04@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261019T160000
 DTEND:20261019T180000
-SUMMARY:Statik: Stabwerksmodell, Lager, Schnittkräfte
+SUMMARY:Stabwerksmodell, Lager, Schnittkräfte
 DESCRIPTION:Stabwerksmodell\, Lager\, Einwirkungen\, Schnittkräfte\, Schnittprinzip\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -39,7 +39,7 @@ UID:statik-05@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261102T100000
 DTEND:20261102T120000
-SUMMARY:Statik: Spannung, Dehnung, Hookesches Gesetz
+SUMMARY:Spannung, Dehnung, Hookesches Gesetz
 DESCRIPTION:Spannung\, Dehnung\, Hookesches Gesetz\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ UID:statik-06@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261102T140000
 DTEND:20261102T160000
-SUMMARY:Statik: Berechnungsbeispiele
+SUMMARY:Berechnungsbeispiele
 DESCRIPTION:Berechnungsbeispiele (Fachwerksstab\, Balken auf zwei Stützen)\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ UID:statik-07@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261102T160000
 DTEND:20261102T180000
-SUMMARY:Statik: Modellbildung und Bestimmtheit
+SUMMARY:Modellbildung und Bestimmtheit
 DESCRIPTION:Modellbildung (Stäbe\, Scheiben\, Platten\, Volumentragwerke)\, Kräftefluss\, statische Bestimmtheit/Unbestimmtheit\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ UID:statik-08@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261109T140000
 DTEND:20261109T160000
-SUMMARY:Statik: Konstruktionsbezeichnungen
+SUMMARY:Konstruktionsbezeichnungen
 DESCRIPTION:Konstruktionsbezeichnungen wie Gewölbe\, Kämpfer\, Scheitel\, Deckenbalken\, Sparren\, Schwelle\, Rähm\, Pfette\, First\, Traufe\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +71,7 @@ UID:statik-09@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261109T160000
 DTEND:20261109T180000
-SUMMARY:Statik: Schäden an Holztragwerken (Teil 1)
+SUMMARY:Schäden an Holztragwerken (Teil 1)
 DESCRIPTION:Schäden an Holztragwerken und statisch-konstruktive Instandsetzungsmöglichkeiten (Teil 1)\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -88,7 +88,7 @@ UID:statik-11@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261123T100000
 DTEND:20261123T120000
-SUMMARY:Statik: Schäden an Holztragwerken (Teil 2)
+SUMMARY:Schäden an Holztragwerken (Teil 2)
 DESCRIPTION:Schäden an Holztragwerken und statisch-konstruktive Instandsetzungsmöglichkeiten (Teil 2)\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -96,7 +96,7 @@ UID:statik-12@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261123T140000
 DTEND:20261123T160000
-SUMMARY:Statik: Schäden an massiven Tragwerken
+SUMMARY:Schäden an massiven Tragwerken
 DESCRIPTION:Schäden an massiven Tragwerken und statisch-konstruktive Instandsetzungsmöglichkeiten\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -104,7 +104,7 @@ UID:statik-13@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261123T160000
 DTEND:20261123T180000
-SUMMARY:Statik: Praxisbeispiele Instandsetzung (Teil 1)
+SUMMARY:Praxisbeispiele Instandsetzung (Teil 1)
 DESCRIPTION:Praxisbeispiele für Instandsetzungskonstruktionen (Teil 1)\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -112,7 +112,7 @@ UID:statik-14@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261130T140000
 DTEND:20261130T160000
-SUMMARY:Statik: Referate
+SUMMARY:Referate
 DESCRIPTION:Referat (4 à 20 min Vortrag + 10 min Fragen)\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -120,7 +120,7 @@ UID:statik-15@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261130T160000
 DTEND:20261130T180000
-SUMMARY:Statik: Referate
+SUMMARY:Referate
 DESCRIPTION:Referat (4 à 20 min Vortrag + 10 min Fragen)\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -128,7 +128,7 @@ UID:statik-16@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261207T140000
 DTEND:20261207T160000
-SUMMARY:Statik: Referate
+SUMMARY:Referate
 DESCRIPTION:Referat (4 à 20 min Vortrag + 10 min Fragen)\nDipl.-Ing. Steffen Stich
 END:VEVENT
 BEGIN:VEVENT
@@ -136,7 +136,7 @@ UID:statik-17@stundenplan
 DTSTAMP:20261019T080000Z
 DTSTART:20261207T160000
 DTEND:20261207T180000
-SUMMARY:Statik: Praxisbeispiele Instandsetzung (Teil 2)
+SUMMARY:Praxisbeispiele Instandsetzung (Teil 2)
 DESCRIPTION:Praxisbeispiele für Instandsetzungskonstruktionen (Teil 2)\nDipl.-Ing. Steffen Stich
 END:VEVENT
 END:VCALENDAR
