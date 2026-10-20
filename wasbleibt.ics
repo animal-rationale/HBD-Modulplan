@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Was bleibt WS26//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:wb-01@wasbleibt
+DTSTAMP:20261019T080000Z
+DTSTART:20261013T181500
+DTEND:20261013T194500
+SUMMARY:Was bleibt? – Einführung
+LOCATION:Architekturgebäude TU Berlin\, Straße des 17. Juni 150\, Raum A53
+DESCRIPTION:Was bleibt? Zur Einführung\nKerstin Wittmann-Englert & Alina Möhrer
+END:VEVENT
+BEGIN:VEVENT
+UID:wb-02@wasbleibt
+DTSTAMP:20261019T080000Z
+DTSTART:20261020T181500
+DTEND:20261020T194500
+SUMMARY:Was bleibt? – Michael Bräuer
+LOCATION:Architekturgebäude TU Berlin\, Straße des 17. Juni 150\, Raum A53
+DESCRIPTION:Vor und nach 1990: Ein Gespräch über Architektur und Städtebau in Rostock
+END:VEVENT
+BEGIN:VEVENT
+UID:wb-03@wasbleibt
+DTSTAMP:20261019T080000Z
+DTSTART:20261027T181500
+DTEND:20261027T194500
+SUMMARY:Was bleibt? – Dominique Falentin
+LOCATION:Architekturgebäude TU Berlin\, Straße des 17. Juni 150\, Raum A53
+DESCRIPTION:Was bleibt vom Palast der Republik? Von der Ausstellungsanalyse zur kuratorischen Praxis im Humboldt Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:wb-04@wasbleibt
+DTSTAMP:20261019T080000Z
+DTSTART:20261103T181500
+DTEND:20261103T194500
+SUMMARY:Was bleibt? – Jörg Haspel
+LOCATION:Architekturgebäude TU Berlin\, Straße des 17. Juni 150\, Raum A53
+DESCRIPTION:Nachkriegserbe Berlin\, Hauptstadt der DDR – eine Denkmalbilanz
+END:VEVENT
+BEGIN:VEVENT
+UID:wb-05@wasbleibt
+DTSTAMP:20261019T080000Z
+DTSTART:20261110T181500
+DTEND:20261110T194500
+SUMMARY:Was bleibt? – Peer Pasternack
+LOCATION:Architekturgebäude TU Berlin\, Straße des 17. Juni 150\, Raum A53
+DESCRIPTION:Von der Shrinking City zum Auffang- und Ankunftsquartier: Halle-Neustadt seit 1990
+END:VEVENT
+BEGIN:VEVENT
+UID:wb-06@wasbleibt
+DTSTAMP:20261019T080000Z
+DTSTART:20261117T181500
+DTEND:20261117T194500
+SUMMARY:Was bleibt? – Wolfgang Kil
+LOCATION:Architekturgebäude TU Berlin\, Straße des 17. Juni 150\, Raum A53
+DESCRIPTION:Streit ums DDR-Planungserbe. Wegen Sozialismus? Moderne? Eigentum?
+END:VEVENT
+BEGIN:VEVENT
+UID:wb-07@wasbleibt
+DTSTAMP:20261019T080000Z
+DTSTART:20261124T181500
+DTEND:20261124T194500
+SUMMARY:Was bleibt? – Alina Möhrer
+LOCATION:Architekturgebäude TU Berlin\, Straße des 17. Juni 150\, Raum A53
+DESCRIPTION:Erinnern\, Nutzen\, Erhalten – Die Kirchen des Sonderbauprogramms der DDR heute
+END:VEVENT
+BEGIN:VEVENT
+UID:wb-08@wasbleibt
+DTSTAMP:20261019T080000Z
+DTSTART:20261201T181500
+DTEND:20261201T194500
+SUMMARY:Was bleibt? – Toni Pfaff & Antje Kirsch
+LOCATION:Architekturgebäude TU Berlin\, Straße des 17. Juni 150\, Raum A53
+DESCRIPTION:Wo Krokodile baden und Bäume an den Wänden wachsen. Zur Erfassung und Erforschung von Kunstwerken im öffentlichen Raum aus dem Zeitraum von 1949 bis 1990 in Dessau
+END:VEVENT
+BEGIN:VEVENT
+UID:wb-09@wasbleibt
+DTSTAMP:20261019T080000Z
+DTSTART:20261208T181500
+DTEND:20261208T194500
+SUMMARY:Was bleibt? – Irma Leinauer
+LOCATION:Architekturgebäude TU Berlin\, Straße des 17. Juni 150\, Raum A53
+DESCRIPTION:Städtebau der Ostmoderne nach 1990: Das Wohngebiet an der Karl-Marx-Allee zwischen Strausberger Platz und Alexanderplatz
+END:VEVENT
+BEGIN:VEVENT
+UID:wb-10@wasbleibt
+DTSTAMP:20261019T080000Z
+DTSTART:20261215T181500
+DTEND:20261215T194500
+SUMMARY:Was bleibt? – Dina Falbe
+LOCATION:Architekturgebäude TU Berlin\, Straße des 17. Juni 150\, Raum A53
+DESCRIPTION:Ulrich Müthers Betonschal
